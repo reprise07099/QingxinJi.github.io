@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Integrated turnkey soliton microcombs"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: 
+excerpt: 
+date: 2020-06-17
+venue: 'Nature'
+paperurl: 'https://www.nature.com/articles/s41586-020-2358-x'
+citation: 'Shen, B., Chang, L., Liu, J. et al. Integrated turnkey soliton microcombs. <i>Nature</i> <b>582</b>, 365–369 (2020). https://doi.org/10.1038/s41586-020-2358-x'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
