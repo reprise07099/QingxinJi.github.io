@@ -9,4 +9,4 @@ paperurl:
 citation: 
 
 ---
-Lue Wu, Heming Wang, Qifan Yang, Qing-xin Ji, Boqiang Shen, Chengying Bao, Maodong Gao, and Kerry Vahala, "[Greater than one billion Q factor for on-chip microresonators](https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-18-5129&id=438503)," Opt. Lett. 45, 5129-5131 (2020) 
+Lue Wu, Heming Wang, Qifan Yang, Qing-xin Ji, Boqiang Shen, Chengying Bao, Maodong Gao, and Kerry Vahala, "<a href="Greater than one billion Q factor for on-chip microresonators" target="_blank">https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-18-5129&id=438503</a>," Opt. Lett. 45, 5129-5131 (2020) 
