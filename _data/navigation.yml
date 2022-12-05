@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "Portforlio"
-    url: /portforlio/   
+  - title: "Portfolio"
+    url: /portfolio/   
     
   - title: "Publications"
     url: /publications/  
