@@ -1,7 +1,7 @@
 ---
 title: "Chaos-assisted two-octave-spanning microcombs"
 collection: publications
-permalink: /publication/Chaos-assisted two-octave-spanning microcombs
+permalink: 
 excerpt: 
 date: 2020-05-11
 venue: 'Nature communications'
